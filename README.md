@@ -1,6 +1,8 @@
 # Subscription-Plan
 
 
+Live Demo : https://shyxmmmmmm.github.io/Subscription-Plan/
+
 # 🎵 Subscription Plans UI
 
 A simple and clean **Subscription Plans webpage** built using **HTML and CSS**. This project shows three subscription cards: Free, Standard, and Premium. It uses Flexbox for layout and Font Awesome icons for styling.
