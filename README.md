@@ -1,5 +1,5 @@
 # Subscription-Plan
-
+💰 Simple subscription pricing page with Free, Standard, and Premium plans built using HTML and CSS.
 
 Live Demo : https://shyxmmmmmm.github.io/Subscription-Plan/
 
